@@ -38,6 +38,6 @@ saturday = [5448, 8041, 6573, 8104, 6208, 5912, 7927, 8909, 7000, 5059, 6412, 63
             5524, 9870, 6591, 8616, 5163, 6656, 8150, 8826, 6875, 5242, 9585, 9649, 9838, 
             7150, 6567, 8524, 7613, 7809, 5562, 7799, 7179, 5184, 7960, 9455, 5633, 9085];
 
-    stairs = [sunday, monday, tuesday, wednesday, thursday, friday, saturday];
+   let stairs = [sunday, monday, tuesday, wednesday, thursday, friday, saturday];
 
 console.log(stairsIn20(stairs));
